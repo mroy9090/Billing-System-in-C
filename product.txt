@@ -1,0 +1,15 @@
+001 rice 70 
+002 dal 120 
+003 beef 500 
+004 moshla 500 
+005 mutton 700 
+006 chicken 130 
+007 apple 150 
+008 orange 160 
+009 mango 130 
+010 grape 190 
+011 oil 120 
+012 water 30 
+013 7up 60 
+014 book 300 
+1 grape 200 
